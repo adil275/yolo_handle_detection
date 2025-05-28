@@ -50,8 +50,8 @@ We use **transfer learning** by freezing the backbone layers up to layer 6. The 
 | **mAP@0.5**          | 0.76114   |
 
 - **Validation Loss Over Epochs**:  
-  ![Validation Loss](path/to/validation_loss_image.png)
+  ![Validation Loss](val.png)
 
 - **Training Loss Over Epochs**:  
-  ![Training Loss](path/to/training_loss_image.png)
+  ![Training Loss](train.png)
 
